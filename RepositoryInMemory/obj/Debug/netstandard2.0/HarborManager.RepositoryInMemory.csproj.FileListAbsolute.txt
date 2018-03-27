@@ -1,0 +1,12 @@
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\bin\Debug\netstandard2.0\HarborManager.RepositoryInMemory.deps.json
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\bin\Debug\netstandard2.0\HarborManager.RepositoryInMemory.dll
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\bin\Debug\netstandard2.0\HarborManager.RepositoryInMemory.pdb
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.csprojResolveAssemblyReference.cache
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.csproj.CoreCompileInputs.cache
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.AssemblyInfoInputs.cache
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.AssemblyInfo.cs
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.dll
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.pdb
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\bin\Debug\netstandard2.0\HarborManager.Contracts.dll
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\bin\Debug\netstandard2.0\HarborManager.Contracts.pdb
+E:\Programmierung\KleineTests\HarborManager\RepositoryInMemory\obj\Debug\netstandard2.0\HarborManager.RepositoryInMemory.csproj.CopyComplete

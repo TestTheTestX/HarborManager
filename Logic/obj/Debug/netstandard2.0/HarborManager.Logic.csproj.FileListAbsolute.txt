@@ -1,0 +1,12 @@
+E:\Programmierung\KleineTests\HarborManager\Logic\bin\Debug\netstandard2.0\HarborManager.Logic.deps.json
+E:\Programmierung\KleineTests\HarborManager\Logic\bin\Debug\netstandard2.0\HarborManager.Logic.dll
+E:\Programmierung\KleineTests\HarborManager\Logic\bin\Debug\netstandard2.0\HarborManager.Logic.pdb
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.csprojResolveAssemblyReference.cache
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.csproj.CoreCompileInputs.cache
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.AssemblyInfoInputs.cache
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.AssemblyInfo.cs
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.dll
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.pdb
+E:\Programmierung\KleineTests\HarborManager\Logic\bin\Debug\netstandard2.0\HarborManager.Contracts.dll
+E:\Programmierung\KleineTests\HarborManager\Logic\bin\Debug\netstandard2.0\HarborManager.Contracts.pdb
+E:\Programmierung\KleineTests\HarborManager\Logic\obj\Debug\netstandard2.0\HarborManager.Logic.csproj.CopyComplete

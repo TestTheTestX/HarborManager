@@ -1,0 +1,8 @@
+E:\Programmierung\KleineTests\HarborManager\Contracts\bin\Debug\netstandard2.0\HarborManager.Contracts.deps.json
+E:\Programmierung\KleineTests\HarborManager\Contracts\bin\Debug\netstandard2.0\HarborManager.Contracts.dll
+E:\Programmierung\KleineTests\HarborManager\Contracts\bin\Debug\netstandard2.0\HarborManager.Contracts.pdb
+E:\Programmierung\KleineTests\HarborManager\Contracts\obj\Debug\netstandard2.0\HarborManager.Contracts.csproj.CoreCompileInputs.cache
+E:\Programmierung\KleineTests\HarborManager\Contracts\obj\Debug\netstandard2.0\HarborManager.Contracts.AssemblyInfoInputs.cache
+E:\Programmierung\KleineTests\HarborManager\Contracts\obj\Debug\netstandard2.0\HarborManager.Contracts.AssemblyInfo.cs
+E:\Programmierung\KleineTests\HarborManager\Contracts\obj\Debug\netstandard2.0\HarborManager.Contracts.dll
+E:\Programmierung\KleineTests\HarborManager\Contracts\obj\Debug\netstandard2.0\HarborManager.Contracts.pdb
